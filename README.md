@@ -1,4 +1,4 @@
-# Dicee Game
+# Dice Game
 
 Dice Game is a simple web-based game where two players roll virtual dice, and the winner is determined based on the outcome of the dice rolls. This game is built using HTML, CSS, and JavaScript.
 
