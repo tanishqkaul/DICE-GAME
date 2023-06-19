@@ -4,7 +4,7 @@ Dice Game is a simple web-based game where two players roll virtual dice, and th
 
 ## How to Play
 
-1. Open the `game.html` file in a web browser.
+1. Open the `home.html` file in a web browser.
 2. On the home page, enter the names of Player 1 and Player 2 in the input fields.
 3. Click the "Start Game" button to begin.
 4. Each player will roll a dice by clicking on their respective dice image.
